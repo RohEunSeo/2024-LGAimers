@@ -1,5 +1,5 @@
 # LGAimers-Elice-2024
-LGAimers 5기 예선 문항 코드
+LGAimers 5기 예선
 ![image](https://github.com/user-attachments/assets/0aa46a35-2f04-4637-951c-cf9e468ae66b)
 ![image](https://github.com/user-attachments/assets/4efc0639-4271-4185-86c0-f650b3fb0057)
 ![image](https://github.com/user-attachments/assets/a87df6d2-ac65-4500-aa75-7e4387fa5517)
